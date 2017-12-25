@@ -1,0 +1,1206 @@
+{
+  "lihakset": [
+    {
+      "nimiLat": "m. occipitofrontalis",
+      "nimiFi": "takaraivo-otsalihas",
+      "origo": [
+        ""
+      ],
+      "insertio": [
+        "galea aponeurotica"
+      ]
+    },
+    {
+      "nimiLat": "m. temporalis",
+      "nimiFi": "ohimolihas",
+      "origo": [
+        "fossa temporalis (ohimoluun kuoppa)"
+      ],
+      "insertio": [
+        "ramus mandibulae (alaleuanluun haara)",
+        "processus coronoideus mandibulae (alaleuanluun lihashaarake)"
+      ]
+    },
+    {
+      "nimiLat": "m. masseter",
+      "nimiFi": "ulompi puremalihas",
+      "origo": [
+        "arcus zygomaticus (poskikaari)"
+      ],
+      "insertio": [
+        "angulus mandibulae (alaleuanluun kulma)",
+        "ramus mandibulae (alaleuanluun haara)"
+      ]
+    },
+    {
+      "nimiLat": "m. platysma",
+      "nimiFi": "platysma",
+      "origo": [
+        "fascia pectoralis"
+      ],
+      "insertio": [
+        "os mandibula inferiorisesti"
+      ]
+    },    
+    {
+      "nimiLat": "m. sternocleidomastoideus",
+      "nimiFi": "päännyökkääjälihas",
+      "origo": [
+        "manubrium sterni (rintalastan kahva)",
+        "os clavicula med. 1/3 (solisluun mediaalinen 1/3)"
+      ],
+      "insertio": [
+        "processus mastoideus (kartiolisäke)",
+        "linea nucha superior lateralis (ylempi niskaligamentin linja lateraalisesti)"
+      ]
+    },    
+    {
+      "nimiLat": "m. scalenus anterior",
+      "nimiFi": "etummainen kylkiluunkannattajalihas",
+      "origo": [
+        "processus transversus cervicales C3-C6 (kaulanikamien C3-C6 poikkihaarakkeet)"
+      ],
+      "insertio": [
+        "os costa 1 (1. kylkiluu)"
+      ]
+    },    
+    {
+      "nimiLat": "m. scalenus medius",
+      "nimiFi": "keskimmäinen kylkiluunkannattajalihas",
+      "origo": [
+        "processus transversus cervicales C1-C7"
+      ],
+      "insertio": [
+        "os costa 1 (1. kylkiluu)"
+      ]
+    },    
+    {
+      "nimiLat": "m. scalenus posterior",
+      "nimiFi": "takimmainen kylkiluunkannattajalihas",
+      "origo": [
+        "processus transversus cervicales C4/C5-C6/C7 (kaulanikamien C4/C5-C6/C7 poikkihaarakkeet)"
+      ],
+      "insertio": [
+        "os costa 2 (2. kylkiluu)"
+      ]
+    },    
+    {
+      "nimiLat": "m. splenius capitis",
+      "nimiFi": "pään ohjaslihas",
+      "origo": [
+        "processus spinosus cervicale&thoracicae C7-Th3 (kaula- ja rintanikamien C7-Th3 okahaarakkeet)"
+      ],
+      "insertio": [
+        "processus mastoideus (kartiolisäke)",
+        "linea nuchae superior (ylempi niskaligamentin linja)"
+      ]
+    },
+    {
+      "nimiLat": "m. splenius cervicis",
+      "nimiFi": "kaulan ohjaslihas",
+      "origo": [
+        "processus spinosus thoracicae Th3-Th6 (rintanikamien Th3-Th6 okahaarakkeet)"
+      ],
+      "insertio": [
+        "processus transversus cervicales C1-C2 (kaulanikamien C1-C2 poikkihaarakkeet)"
+      ]
+    },  
+    {
+      "nimiLat": "m. semispinalis capitis",
+      "nimiFi": "vino okahaarakelihas (pää)",
+      "origo": [
+        "processus transversus&articularis cervicale&thoracicae C3-Th6 (kaula- ja rintanikamien C3-Th6 poikkihaarakkeet ja nivelhaarakkeet)"
+      ],
+      "insertio": [
+        "os occipitale (takaraivoluu)"
+      ]
+    },    
+    {
+      "nimiLat": "m. semispinalis cervicis",
+      "nimiFi": "vino okahaarakelihas (kaularanka)",
+      "origo": [
+        "processus transversus thoracicae Th2-Th5"
+      ],
+      "insertio": [
+        "processus spinosus cervicales C2-C5 (kaulanikamien C2-C5 okahaarakkeet)"
+      ]
+    },      
+    {
+      "nimiLat": "m. semispinalis thoracis",
+      "nimiFi": "vino okahaarakelihas (rintaranka)",
+      "origo": [
+        "processus transversus Th5-Th11 (rintanikamien Th5-Th11 poikkihaarakkeet)"
+      ],
+      "insertio": [
+        "processus spinosus cervicale&thoracicae C5-Th4 (kaula- ja rintanikamien C4-Th4 okahaarakkeet"
+      ]
+    },
+    {
+      "nimiLat": "m. rectus capitis posterior major",
+      "nimiFi": "iso takimmainen suora niskalihas",
+      "origo": [
+        "processus spinosus axis (kiertäjänikaman C2 okahaarake)"
+      ],
+      "insertio": [
+        "os occipitale lateraalisesti (takaraivoluu)"
+      ]
+    },    
+    {
+      "nimiLat": "m. rectus capitis posterior minor",
+      "nimiFi": "pieni takimmainen suora niskalihas",
+      "origo": [
+        "tuberculum posterior atlas (kannattajanikaman C1 takakyhmy)"
+      ],
+      "insertio": [
+        "os occipitale (takaraivoluu)"
+      ]
+    },    
+    {
+      "nimiLat": "m. obliquus capitis superior",
+      "nimiFi": "ylempi vino niskalihas",
+      "origo": [
+        "processus transversus atlas (kannattajanikaman C1 poikkihaarake)"
+      ],
+      "insertio": [
+        "os occipitale (takaraivoluu)"
+      ]
+    },    
+    {
+      "nimiLat": "m. obliquus capitis inferior",
+      "nimiFi": "alempi vino niskalihas",
+      "origo": [
+        "processus spinosus axis (kiertäjänikaman C2 okahaarake)"
+      ],
+      "insertio": [
+        "processus transversus atlas (kannattajanikaman C1 poikkihaarake)"
+      ]
+    },
+    {
+      "nimiLat": "m. trapezius (pars descendens)",
+      "nimiFi": "epäkäslihas (laskeva osa)",
+      "origo": [
+        "processus spinosus cervicales C1-C7 (kaulanikamien C1-C7 okahaarakkeet)",
+        "basis cranii (kallonpohja)",
+        "linea nuchae superior (ylemmän niskaligamentin linja)"
+      ],
+      "insertio": [
+        "os clavicula lat. 1/3 (solisluun lat. 1/3)",
+        "acromion (olkalisäke)",
+        "spina scapulae (lapaluun harju)"
+      ]
+    },    
+    {
+      "nimiLat": "m. trapezius (pars transversa)",
+      "nimiFi": "epäkäslihas (poikittainen osa)",
+      "origo": [
+        "processus spinosus thoracicae T1-T7 (rintanikamien T1-T7 okahaarakkeet)"
+      ],
+      "insertio": [
+        "os clavicula lat. 1/3 (solisluun lat. 1/3)",
+        "acromion (olkalisäke)",
+        "spina scapulae (lapaluun harju)"
+      ]
+    },
+    {
+      "nimiLat": "m. trapezius (pars ascendens)",
+      "nimiFi": "epäkäslihas (nouseva osa)",
+      "origo": [
+        "procesus spinosus thoracicae T8-T12 (rintanikamien T8-T12 okahaarakkeet)"
+      ],
+      "insertio": [
+        "spina scapulae inferiorisesti (lapaluun harjun alapuoli)"
+      ]
+    },    
+    {
+      "nimiLat": "m. rhomboideus minor",
+      "nimiFi": "pieni suunnikaslihas",
+      "origo": [
+        "processus spinosus cervicales C6-C7 (kaulanikamien C6-C7 okahaarakkeet)"
+      ],
+      "insertio": [
+        "margo medialis scapulae (lapaluun sisäreuna)"
+      ]
+    },    
+    {
+      "nimiLat": "m. rhomboideus major",
+      "nimiFi": "iso suunnikaslihas",
+      "origo": [
+        "processus spinosus thoracicae Th1-Th4 (rintanikamien Th1-Th4 okahaarakkeet)"
+      ],
+      "insertio": [
+        "margo medialis scapulae (lapaluun sisäreuna)"
+      ]
+    },  
+    {
+      "nimiLat": "m. latissimus dorsi",
+      "nimiFi": "leveä selkälihas",
+      "origo": [
+        "os sacrum (ristiluu)",
+        "crista iliaca (suoliluun harju)",
+        "fascia thoracolumbalis (lanneselkäkalvo)",
+        "ossa costae 9-12 (kylkiluut 9-12)",
+        "processus spinosus thoracicae&lumbales Th7-L5 (rinta- ja lannenikamien Th7-L5 okahaarakkeet)",
+        "angulus inferior scapulae (lapaluun alakulma)"
+      ],
+      "insertio": [
+        "crista tuberculi minoris humeri (pienen olkakyhmyn harju)"
+      ]
+    },
+    {
+      "nimiLat": "m. serratus posterior superior",
+      "nimiFi": "ylempi takimmainen sahalihas",
+      "origo": [
+        "processus spinosus cervicale&thoracicae C7-Th2 (kaula- ja rintanikamien C7-Th2 okahaarakkeet)"
+      ],
+      "insertio": [
+        "ossa costae 2-5 (kylkiluut 2-5)"
+      ]
+    },    
+    {
+      "nimiLat": "m. serratus posterior inferior",
+      "nimiFi": "alempi takimmainen sahalihas",
+      "origo": [
+        "processus spinosus thoracicae&lumbales Th11-L2 (rinta- ja lannenikamien Th11-L2 okahaarakkeet)"
+      ],
+      "insertio": [
+        "ossa costae 9-12 (kylkiluut 9-12)"
+      ]
+    },    
+    {
+      "nimiLat": "m. iliocostalis dorsi",
+      "nimiFi": "suoli-kylkiluulihas",
+      "origo": [
+        "ossa costae 3-12 (kylkiluut 3-12)",
+        "os sacrum (ristiluu)",
+        "crista iliaca (suoliluun harju)",
+        "fascia thoracolumbalis (lanneselkäkalvo)"
+      ],
+      "insertio": [
+        "processus transversus cervicales C4-C6 (kaulanikamien C4-C6 poikkihaarakkeet)",
+        "ossa costae 1-12 (kylkiluut 1-12)",
+        "fascia thoracolumbalis (lanneselkäkalvo)"
+      ]
+    },
+    {
+      "nimiLat": "m. longissimus dorsi",
+      "nimiFi": "pitkä selkälihas",
+      "origo": [
+        "processus transversus cervicales&thoracicae C4-Th5/Th6 & Th10-Th12 (kaula- ja rintanikamien C4-Th5/Th6 & Th10-Th12 poikkihaarakkeet)",
+        "processus spinosus lumbales L1-L5 (lannenikamien L1-L5 okahaarakkeet)",
+        "os sacrum (ristiluu)",
+        "crista iliaca (suoliluun harju)"
+      ],
+      "insertio": [
+        "processus mastoideus (kartiolisäke)",
+        "processus transversus cervicales, C2-C5 (kaulanikamien C2-C5 poikkihaarakkeet)",
+        "processus transversus thoracicae&lumbales Th1-L5 (rinta- ja lannenikamien Th1-L5 poikkihaarakkeet)",
+        "ossa costae 2-12 (kylkiluut 2-12)"
+      ]
+    },    
+    {
+      "nimiLat": "m. spinalis dorsi",
+      "nimiFi": "suora okahaarakelihas",
+      "origo": [
+        "processus spinosus cervicales&thoracicae C5-Th2 (kaula- ja rintanikamien C5-Th2 okahaarakkeet)",
+        "processus spinosus thoracicae&lumbales Th10-L3 (rinta- ja lannenikamien Th10-L3 okahaarakkeet)"
+      ],
+      "insertio": [
+        "processus spinsous cervicales C2-C4/C5 (kaulanikamien C2-C4/C5 okahaarakkeet)",
+        "processus spinosus thoracicae Th2-Th8/Th9 (rintanikamien Th2-Th8/Th9 okahaarakkeet)",
+        "os occipitale (takaraivoluu)"
+      ]
+    },    
+    {
+      "nimiLat": "m. quadratus lumborum",
+      "nimiFi": "nelikulmainen lannelihas",
+      "origo": [
+        "crista iliaca posteriorisesti (suoliluun harjun takaosa)"
+      ],
+      "insertio": [
+        "processus transversus lumbales L1-L4 (lannenikamien L1-L4 poikkihaarakkeet)",
+        "os costa 12 (12. kylkiluu)"
+      ]
+    },    
+    {
+      "nimiLat": "m. obliquus externus abdominis",
+      "nimiFi": "ulompi vino vatsalihas",
+      "origo": [
+        "facies lateralis ossa costae 5-12 (kylkiluiden 5-12 ulkopinta)"
+      ],
+      "insertio": [
+        "linea alba (valkoinen jännesauma)",
+        "crista iliaca (suoliluun harju)"
+      ]
+    },
+    {
+      "nimiLat": "m. obliquus internus abdominis",
+      "nimiFi": "sisempi vino vatsalihas",
+      "origo": [
+        "fascia thoracolumbalis (lanneselkäkalvo)",
+        "crista iliaca (suoliluun harju)",
+        "spina iliaca anterior superior, SIAS (suoliluun etuyläkärki)"
+      ],
+      "insertio": [
+        "ossa costae 10-12 (kylkiluut 10-12)",
+        "linea alba (valkoinen jännesauma)"
+      ]
+    },    
+    {
+      "nimiLat": "m. rectus abdominis",
+      "nimiFi": "suora vatsalihas",
+      "origo": [
+        "symphysis pubica (häpyliitos)",
+        "crista pubica (häpyluun harju)"
+      ],
+      "insertio": [
+        "cartilago costalis 5-7 (kylkirustot 5-7)",
+        "processus xiphoideus (miekkalisäke)"
+      ]
+    },    
+    {
+      "nimiLat": "m. transversus abdominis",
+      "nimiFi": "poikittainen vatsalihas",
+      "origo": [
+        "cartilago costalis 7-12 (kylkirustot 7-12)",
+        "fascia thoracolumbalis (lanneselkäkalvo)",
+        "crista iliaca (suoliluun harju)",
+        "spina iliaca anterior superior, SIAS (suoliluun etuyläkärki)"
+      ],
+      "insertio": [
+        "linea alba (valkoinen jännesauma)",
+        "crista pubica (häpyluun harju)"
+      ]
+    },    
+    {
+      "nimiLat": "m. psoas major",
+      "nimiFi": "iso lannelihas",
+      "origo": [
+        "corpus vertebrae&discus intervertebralis vertebrae thoracicae&lumbales Th12-L4 (rinta- ja lannenikamien Th12-L4 nikamasolmut ja välilevyt)"
+      ],
+      "insertio": [
+        "trochanter minor (pieni sarvennoinen)"
+      ]
+    },    
+    {
+      "nimiLat": "m. psoas minor",
+      "nimiFi": "pieni lannelihas",
+      "origo": [
+        "corpus vertebrae&discus intervertebralis vertebrae thoracicae&lumbales Th12-L1 (rinta- ja lannenikamien Th12-L1 nikamasolmut ja välilevyt)"
+      ],
+      "insertio": [
+        "arcus iliopectineus"
+      ]
+    },    
+    {
+      "nimiLat": "m. iliacus",
+      "nimiFi": "suoliluulihas",
+      "origo": [
+        "fossa iliaca (suoliluun kuoppa)"
+      ],
+      "insertio": [
+        "trochanter minor (pieni sarvennoinen)"
+      ]
+    },    
+    {
+      "nimiLat": "m. iliopsoas",
+      "nimiFi": "lanne-suoliluulihas",
+      "origo": [
+        "corpus vertebrae&discus intervertebralis vertebrae thoracicae&lumbales Th12-L4 (rinta- ja lannenikamien Th12-L4 nikamasolmut ja välilevyt)",
+        "fossa iliaca (suoliluun kuoppa)"
+      ],
+      "insertio": [
+        "trochanter minor (pieni sarvennoinen)"
+      ]
+    },    
+    {
+      "nimiLat": "m. tensor fascia latae",
+      "nimiFi": "leveän peitinkalvon jännittäjälihas",
+      "origo": [
+        "spina iliaca anterior superior, SIAS (suoliluun etuyläkärki)"
+      ],
+      "insertio": [
+        "tractus iliotibialis (suoliluu-sääriside)",
+        "condylus lateralis tibiae (sääriluun ulkonivelasta)"
+      ]
+    },    
+    {
+      "nimiLat": "m. gluteus maximus",
+      "nimiFi": "iso pakaralihas",
+      "origo": [
+        "os ilium posteriorisesti (suoliluun takapinta)",
+        "fascia thoracolumbalis (lanneselkäkalvo)",
+        "os sacrum (ristiluu)"
+      ],
+      "insertio": [
+        "tuberositas glutae (reisiluun pakarakyhmy)",
+        "tractus iliotibialis (suoliluu-sääriside)"
+      ]
+    },    
+    {
+      "nimiLat": "m. gluteus medius",
+      "nimiFi": "keskimmäinen pakaralihas",
+      "origo": [
+        "os ilium superiorisesti (suoliluun yläosa)"
+      ],
+      "insertio": [
+        "trochanter major (iso sarvennoinen)"
+      ]
+    },    
+    {
+      "nimiLat": "m. gluteus minimus",
+      "nimiFi": "pieni pakaralihas",
+      "origo": [
+        "os ilium inferiorisesti (suoliluun alapinta)"
+      ],
+      "insertio": [
+        "trochanter major (iso sarvennoinen)"
+      ]
+    },    
+    {
+      "nimiLat": "m. levator scapulae",
+      "nimiFi": "lavankohottajalihas",
+      "origo": [
+        "processus transversus cervicales C1-C4 (kaulanikamien C1-C4 poikkihaarakkeet)"
+      ],
+      "insertio": [
+        "angulus superior scapulae (lapaluun yläkulma)"
+      ]
+    },    
+    {
+      "nimiLat": "m. deltoideus",
+      "nimiFi": "hartialihas",
+      "origo": [
+        "os clavicula lat. 1/3 (solisluun lateraalinen 1/3)",
+        "acromion (olkalisäke)",
+        "spina scapulae (lapaluun harju)"
+      ],
+      "insertio": [
+        "tuberositas deltoidea humeri (hartialihaksen kyhmy)"
+      ]
+    },
+    {
+      "nimiLat": "m. supraspinatus",
+      "nimiFi": "ylempi lapalihas",
+      "origo": [
+        "fossa supraspinata (lapaluun yläkuoppa)"
+      ],
+      "insertio": [
+        "tuberculum majus humeri (iso olkakyhmy)"
+      ]
+    },    
+    {
+      "nimiLat": "m. infraspinatus",
+      "nimiFi": "alempi lapalihas",
+      "origo": [
+        "fossa infraspinata (lapaluun alakuoppa)"
+      ],
+      "insertio": [
+        "tuberculum majus humeri (iso olkakyhmy)"
+      ]
+    },    
+    {
+      "nimiLat": "m. teres minor",
+      "nimiFi": "pieni liereälihas",
+      "origo": [
+        "margo lateralis scapulae (lapaluun ulkoreuna)"
+      ],
+      "insertio": [
+        "tuberculum majus humeri (iso olkakyhmy)"
+      ]
+    },    
+    {
+      "nimiLat": "m. subscapularis",
+      "nimiFi": "lavanaluslihas",
+      "origo": [
+        "fossa subscapularis (lapaluun aluskuoppa)"
+      ],
+      "insertio": [
+        "tuberculum minus humeri (pieni olkakyhmy)"
+      ]
+    },    
+    {
+      "nimiLat": "m. teres major",
+      "nimiFi": "iso liereä lihas",
+      "origo": [
+        "margo lateralis scapulae (lapaluun ulkoreuna)",
+        "angulus inferior scapulae (lapaluun alakulma)"
+      ],
+      "insertio": [
+        "crista tuberculi minoris humeri (pienen olkakyhmyn harju)"
+      ]
+    },    
+    {
+      "nimiLat": "m. pectoralis major",
+      "nimiFi": "iso rintalihas",
+      "origo": [
+        "os clavicula med. (solisluun mediaalipää)",
+        "os sternum (rintalasta)",
+        "cartilago costalis 2-6 (kylkirustot 2-6)",
+        "vagina m. recti abdominis (suoran vatsalihaksen tuppi)"
+      ],
+      "insertio": [
+        "crista tuberculi majoris humeri (ison olkakyhmyn harju)"
+      ]
+    },    
+    {
+      "nimiLat": "m. pectoralis minor",
+      "nimiFi": "pieni rintalihas",
+      "origo": [
+        "ossa costae 3-5 (kylkiluut 3-5)"
+      ],
+      "insertio": [
+        "processus coracoideus (korppilisäke)"
+      ]
+    },    
+    {
+      "nimiLat": "m. serratus anterior",
+      "nimiFi": "etummainen sahalihas",
+      "origo": [
+        "ossa costae 1-9 (kylkiluut 1-9)"
+      ],
+      "insertio": [
+        "margo medialis scapulae (lapaluun sisäreuna)"
+      ]
+    },    
+    {
+      "nimiLat": "m. biceps brachii",
+      "nimiFi": "kaksipäinen olkalihas",
+      "origo": [
+        "tuberculum supraglenoidale (lapaluun nivelkuopan yläpuolinen kyhmy)",
+        "processus coracoideus (korppilisäke)"
+      ],
+      "insertio": [
+        "tuberositas radii (värttinäluun kyhmy)"
+      ]
+    },    
+    {
+      "nimiLat": "m. coracobrachialis",
+      "nimiFi": "korppi-olkaluulihas",
+      "origo": [
+        "processus coracoideus (korppilisäke)"
+      ],
+      "insertio": [
+        "margo medialis humeri 1/2 (olkaluun sisäreuna 1/2)"
+      ]
+    },    
+    {
+      "nimiLat": "m. brachialis",
+      "nimiFi": "olkavarsilihas",
+      "origo": [
+        "facies anterior humeri 1/2 (olkaluun etupinta) 1/2"
+      ],
+      "insertio": [
+        "tuberositas ulnae (kyynärluun kyhmy)"
+      ]
+    },    
+    {
+      "nimiLat": "m. triceps brachii",
+      "nimiFi": "kolmipäinen olkalihas",
+      "origo": [
+        "tuberculum infraglenoidale (lapaluun nivelkuopan alapuolinen kyhmy)",
+        "facies posterior humeri (olkaluun takapinta)",
+        "margo lateralis humeri (olkaluun ulkoreuna)"
+      ],
+      "insertio": [
+        "olecranon (kyynärlisäke)"
+      ]
+    },    
+    {
+      "nimiLat": "m. brachioradialis",
+      "nimiFi": "olkavarsi-värttinäluulihas",
+      "origo": [
+        "margo lateralis humeri (olkaluun ulkoreuna)",
+        "crista supraepicondylaris lateralis humeri (ojentajalisäkkeen harju)"
+      ],
+      "insertio": [
+        "processus styloideus radii (värttinäluun puikkolisäke)"
+      ]
+    },    
+    {
+      "nimiLat": "m. pronator teres",
+      "nimiFi": "kyynärvarren liereä sisäänkiertäjä",
+      "origo": [
+        "epicondylus medialis humeri (olkaluun koukistajalisäke)",
+        "processus coronoideus ulnae (kyynärluun varislisäke)"
+      ],
+      "insertio": [
+        "facies lateralis radii, 1/2 (värttinäluun ulkoreuna, 1/2)"
+      ]
+    },    
+    {
+      "nimiLat": "m. flexor carpi radialis",
+      "nimiFi": "ranteen värttinäluun puoleinen koukistajalihas",
+      "origo": [
+        "epicondylus medialis humeri (olkaluun koukistajalisäke)"
+      ],
+      "insertio": [
+        "basis ossis metacarpalis 2&3 (kämmenluiden 2&3 tyvi)"
+      ]
+    },    
+    {
+      "nimiLat": "m. palmaris longus",
+      "nimiFi": "pitkä kämmenlihas",
+      "origo": [
+        "epicondylus medialis humeri (olkaluun koukistajalisäke)"
+      ],
+      "insertio": [
+        "aponeurosis palmaris (kämmenen kalvojänne)"
+      ]
+    },    
+    {
+      "nimiLat": "m. flexor digitorum superficialis",
+      "nimiFi": "sormien pinnallinen koukistajalihas",
+      "origo": [
+        "epicondylus medialis humeri (olkaluun koukistajalisäke)",
+        "processus coronoideus ulnae (kyynärluun varislisäke)",
+        "facies anterior radii (värttinäluun etupinta)"
+      ],
+      "insertio": [
+        "phalanx media 2-5 (sormien 2-5 keskijäsenet)"
+      ]
+    },    
+    {
+      "nimiLat": "m. flexor pollicis longus",
+      "nimiFi": "peukalon pitkä koukistajalihas",
+      "origo": [
+        "facies anterior radii (värttinäluun sisäpinta)",
+        "membrana interosseus antebrachii (kyynärvarren luuvälikalvo)"
+      ],
+      "insertio": [
+        "phalanx distalis 1 (peukalon kärkijäsen)"
+      ]
+    },    
+    {
+      "nimiLat": "m. extensor carpi radialis longus",
+      "nimiFi": "ranteen pitkä värttinäluun puoleinen ojentajalihas",
+      "origo": [
+        "epicondylus lateralis humeri (olkaluun ojentajalisäke)",
+        "crista supraepicondylaris lateralis humeri (ojentajalisäkkeen harju)"
+      ],
+      "insertio": [
+        "basis os metacarpale 2 (2. kämmenluun tyvi)"
+      ]
+    },    
+    {
+      "nimiLat": "m. extensor carpi radialis brevis",
+      "nimiFi": "ranteen lyhyt värttinäluun puoleinen ojentajalihas",
+      "origo": [
+        "epicondylus lateralis humeri (olkaluun ojentajalisäke)"
+      ],
+      "insertio": [
+        "basis os metacarpale 3 (3. kämmenluun tyvi)"
+      ]
+    },    
+    {
+      "nimiLat": "m. extensor digitorum",
+      "nimiFi": "sormien ojentajalihas",
+      "origo": [
+        "epicondylus lateralis humeri (olkaluun ojentajalisäke)"
+      ],
+      "insertio": [
+        "aponeurosis dorsalis (kämmenselän kalvojänne)"
+      ]
+    },    
+    {
+      "nimiLat": "m. extensor carpi ulnaris",
+      "nimiFi": "ranteen kyynärluun puoleinen ojentajalihas",
+      "origo": [
+        "epicondylus lateralis humeri (olkaluun ojentajalisäke)"
+      ],
+      "insertio": [
+        "basis os metacarpale 5 (5. kämmenluun tyvi)"
+      ]
+    },
+    {
+      "nimiLat": "m. flexor carpi ulnaris",
+      "nimiFi": "ranteen kyynärluun puoleinen koukistajalihas",
+      "origo": [
+        "epicondylus medialis humeri (olkaluun koukistajalisäke)",
+        "olecranon (kyynärlisäke)"
+      ],
+      "insertio": [
+        "basis os metacarpale 5 (5. kämmenluun tyvi)",
+        "os pisiforme (herneluu)"
+      ]
+    },      
+    {
+      "nimiLat": "m. anconeus",
+      "nimiFi": "kolmikulmainen lihas",
+      "origo": [
+        "epicondylus lateralis humeri (olkaluun ojentajalisäke)"
+      ],
+      "insertio": [
+        "olecranon (kyynärlisäke)",
+        "facies posterior ulnae (kyynärluun takapinta)"
+      ]
+    },    
+    {
+      "nimiLat": "m. supinator",
+      "nimiFi": "kyynärvarren uloskiertäjälihas",
+      "origo": [
+        "epicondylus lateralis humeri (olkaluun ojentajalisäke)",
+        "crista supinator ulnae (kyynärluun supinaatioharjanne)"
+      ],
+      "insertio": [
+        "facies lateralis radii (värttinääluun ulkopinta)"
+      ]
+    },    
+    {
+      "nimiLat": "m. abductor pollicis brevis",
+      "nimiFi": "peukalon lyhyt loitontajalihas",
+      "origo": [
+        "tuberculum scaphoideum (ranteen veneluun kyhmy)",
+        "flexor retinaculum"
+      ],
+      "insertio": [
+        "basis phalanx proximalis 1 (peukalon tyvijäsen)"
+      ]
+    },    
+    {
+      "nimiLat": "m. flexor pollicis brevis",
+      "nimiFi": "peukalon lyhyt koukistajalihas",
+      "origo": [
+        "tuberculum trapezium (ranteen kolmioluun kyhmy)",
+        "flexor retinaculum"
+      ],
+      "insertio": [
+        "basis phalanx proximalis 1 (peukalon tyvijäsen)"
+      ]
+    },    
+    {
+      "nimiLat": "m. palmaris brevis",
+      "nimiFi": "lyhyt kämmenlihas",
+      "origo": [
+        "aponeurosis palmaris (kämmenen kalvojänne)"
+      ],
+      "insertio": [
+        "kämmenen iho"
+      ]
+    },    
+    {
+      "nimiLat": "m. abductor digiti minimi manus",
+      "nimiFi": "pikkusormen loitontajalihas",
+      "origo": [
+        "os pisiforme (herneluu)"
+      ],
+      "insertio": [
+        "phalanx proximalis 5 (pikkusormen tyvijäsen)"
+      ]
+    },    
+    {
+      "nimiLat": "m. sartorius",
+      "nimiFi": "räätälinlihas",
+      "origo": [
+        "spina iliaca anterior superior (suoliluun etuyläkärki)"
+      ],
+      "insertio": [
+        "pes anserinus (hanhenjalkakalvo)"
+      ]
+    },    
+    {
+      "nimiLat": "m. gracilis",
+      "nimiFi": "hoikkalihas",
+      "origo": [
+        "ramus inferior ossis pubis (häpyluun alahaara)"
+      ],
+      "insertio": [
+        "pes anserinus (hanhenjalkakalvo)"
+      ]
+    },
+    {
+      "nimiLat": "m. rectus femoris",
+      "nimiFi": "suora reisilihas",
+      "origo": [
+        "spina iliaca anterior inferior (suoliluun etualakärki)",
+        "acetabulum (lonkkamalja)"
+      ],
+      "insertio": [
+        "tuberositas tibiae (sääriluun kyhmy)"
+      ]
+    },    
+    {
+      "nimiLat": "m. vastus lateralis",
+      "nimiFi": "ulompi reisilihas",
+      "origo": [
+        "trochanter major (iso sarvennoinen)",
+        "linea aspera laterale (reisiluun harjun ulompi harjanne)"
+      ],
+      "insertio": [
+        "tuberositas tibiae (sääriluun kyhmy)"
+      ]
+    },    
+    {
+      "nimiLat": "m. vastus intermedius",
+      "nimiFi": "keskimmäinen reisilihas",
+      "origo": [
+        "facies anterior femoris (reisiluun etupinta)"
+      ],
+      "insertio": [
+        "tuberositas tibiae (sääriluun kyhmy)"
+      ]
+    },    
+    {
+      "nimiLat": "m. vastus medialis",
+      "nimiFi": "sisempi reisilihas",
+      "origo": [
+        "linea aspera mediale (reisiluun harjun sisempi harjanne)"
+      ],
+      "insertio": [
+        "tuberositas tibiae (sääriluun kyhmy)"
+      ]
+    },    
+    {
+      "nimiLat": "m. pectineus",
+      "nimiFi": "harjannelihas",
+      "origo": [
+        "pecten ossis pubis (häpyluun harjanne)"
+      ],
+      "insertio": [
+        "linea pectinea (harjanneviiva)"
+      ]
+    },    
+    {
+      "nimiLat": "m. adductor longus",
+      "nimiFi": "reiden pitkä lähentäjälihas",
+      "origo": [
+        "ramus superior ossis pubis (häpyluun ylähaara)"
+      ],
+      "insertio": [
+        "linea aspera mediale (reisiluun harjun sisempi harjanne)"
+      ]
+    },    
+    {
+      "nimiLat": "m. adductor brevis",
+      "nimiFi": "reiden lyhyt lähentäjälihas",
+      "origo": [
+        "ramus inferior ossis pubis (häpyluun alahaara)"
+      ],
+      "insertio": [
+        "linea aspera mediale (reisiluun harjun sisempi harjanne)"
+      ]
+    },
+    {
+      "nimiLat": "m. adductor magnus",
+      "nimiFi": "reiden iso lähentäjälihas",
+      "origo": [
+        "ramus ossis ischii (istuinluun haara)",
+        "ramus inferior ossis pubis (häpyluun alahaara)",
+        "tuber ischiadicum (istuinkyhmy)"
+      ],
+      "insertio": [
+        "linea aspera mediale (reisiluun harjun sisempi harjanne)",
+        "tuberculum adductorium (lähentäjäkyhmy)"
+      ]
+    },
+    {
+      "nimiLat": "m. biceps femoris",
+      "nimiFi": "kaksipäinen reisilihas",
+      "origo": [
+        "tuber ischiadicum (istuinkyhmy)",
+        "linea aspera laterale (reisiluun harjun ulompi harjanne)"
+      ],
+      "insertio": [
+        "caput fibulae (pohjeluun pää)"
+      ]
+    },
+    {
+      "nimiLat": "m. semitendinosus",
+      "nimiFi": "puolijänteinen lihas",
+      "origo": [
+        "tuber ischiadicum (istuinkyhmy)"
+      ],
+      "insertio": [
+        "pes anserinus (hanhenjalkakalvo)"
+      ]
+    },
+    {
+      "nimiLat": "m. semimembranosus",
+      "nimiFi": "puolikalvoinen lihas",
+      "origo": [
+        "tuber ischiadicum (istuinkyhmy)"
+      ],
+      "insertio": [
+        "condylus medialis tibiae (sääriluun sisänivelnasta)"
+      ]
+    },
+    {
+      "nimiLat": "m. gastrocnemius",
+      "nimiFi": "kaksoiskantalihas",
+      "origo": [
+        "condylus medialis&lateralis femoris (reisiluun sisä- ja ulkonivelnasta)"
+      ],
+      "insertio": [
+        "tuber calcanei via tendo achillee (kantaluun kyhmy akillesjänteen välityksellä)"
+      ]
+    },
+    {
+      "nimiLat": "m. plantaris",
+      "nimiFi": "hoikka kantalihas",
+      "origo": [
+        "condylus lateralis femoris (reisiluun ulkonivelnasta)"
+      ],
+      "insertio": [
+        "tuber calcanei (kantaluun kyhmy)"
+      ]
+    },
+    {
+      "nimiLat": "m. soleus",
+      "nimiFi": "leveä kantalihas",
+      "origo": [
+        "facies posterior tibiae (sääriluun takapinta)",
+        "facies posterior fibulae (pohjeluun takapinta)",
+        "caput fibulae (pohjeluun pää)"
+      ],
+      "insertio": [
+        "tuber calcanei via tendo achillee (kantaluun kyhmy akillesjänteen välityksellä)"
+      ]
+    },
+    {
+      "nimiLat": "m. popliteus",
+      "nimiFi": "polvitaivelihas",
+      "origo": [
+        "condylus lateralis femoris (reisiluun ulkonivelnasta)"
+      ],
+      "insertio": [
+        "facies posterior tibiae (sääriluun takapinta)"
+      ]
+    },
+    {
+      "nimiLat": "m. flexor digitorum longus",
+      "nimiFi": "varpaiden pitkä koukistajalihas",
+      "origo": [
+        "facies posterior tibiae (sääriluun takapinta)"
+      ],
+      "insertio": [
+        "basis phalanx distalis 2-5 (varpaiden 2-5 kärkijäsenten tyvet)"
+      ]
+    },
+    {
+      "nimiLat": "m. tibialis anterior",
+      "nimiFi": "etummainen säärilihas",
+      "origo": [
+        "facies lateralis tibiae (sääriluun sivupinta)",
+        "membrana interossea (luuvälikalvo)"
+      ],
+      "insertio": [
+        "facies medialis&plantaris os metatarsalis 1 (1. jalkapöydänluun sisä- ja alapinta)",
+        "facies medialis&plantaris os cuneiforme mediale (1. vaajaluun sisä- ja alapinta)"
+      ]
+    },
+    {
+      "nimiLat": "m. extensor digitorum longus",
+      "nimiFi": "varpaiden pitkä ojentajalihas",
+      "origo": [
+        "facies anterior tibiae (sääriluun etupinta)",
+        "membrana interossea (luuvälikalvo)",
+        "caput & margo anterior fibulae (pohjeluun pää ja etureuna)"
+      ],
+      "insertio": [
+        "phalanx media & distales 2-5 via aponeurosis dorsales (varpaiden 2-5 keski- ja kärkiluut ojentajalihasten kalvojänteiden avulla)"
+      ]
+    },
+    {
+      "nimiLat": "m. extensor hallucis longus",
+      "nimiFi": "isovarpaan pitkä ojentajalihas",
+      "origo": [
+        "facies medialis fibulae (pohjeluun sisäpinta)",
+        "membrana interossea (luuvälikalvo)"
+      ],
+      "insertio": [
+        "basis phalanx distalis 1 (isovarpaan kärkijäsenen tyvi)"
+      ]
+    },
+    {
+      "nimiLat": "m. flexor hallucis longus",
+      "nimiFi": "isovarpaan pitkä koukistajalihas",
+      "origo": [
+        "facies posterior fibulae (pohjeluun takapinta)",
+        "membrana interossea (luuvälikalvo)"
+      ],
+      "insertio": [
+        "basis phalanx distalis 1 (isovarpaan kärkijäsenen tyvi)"
+      ]
+    },
+    {
+      "nimiLat": "m. tibialis posterior",
+      "nimiFi": "takimmainen säärilihas",
+      "origo": [
+        "facies posterior tibiae (sääriluun takapinta)",
+        "facies posterior fibulae (pohjeluun takapinta)",
+        "membrana interossea (luuvälikalvo)"
+      ],
+      "insertio": [
+        "os naviculare (veneluu)",
+        "ossa cuneiformia (vaajaluut)",
+        "ossa metatarsi 2-4 (jalkapöydänluut 2-4)"
+      ]
+    },
+    {
+      "nimiLat": "m. peroneus longus",
+      "nimiFi": "pitkä pohjeluulihas",
+      "origo": [
+        "caput fibulae (pohjeluun pää)",
+        "facies lateralis fibulae (pohjeluun ulkopinta)"
+      ],
+      "insertio": [
+        "os cuneiforme mediale (1. vaajaluu)",
+        "os metatarsale 1 plantaarisesti (1. jalkapöydänluun alapinta)"
+      ]
+    },
+    {
+      "nimiLat": "m. peroneus brevis",
+      "nimiFi": "lyhyt pohjeluulihas",
+      "origo": [
+        "facies lateralis fibulae (pohjeluun ulkopinta)"
+      ],
+      "insertio": [
+        "tuberositas ossis metatarsalis 5 (5. jalkapöydänluun kyhmy)"
+      ]
+    },
+    {
+      "nimiLat": "m. abductor hallucis",
+      "nimiFi": "isovarpaan loitontajalihas",
+      "origo": [
+        "tuber calcanei medialis (kantaluun kyhmyn sisäsivu)"
+      ],
+      "insertio": [
+        "basis phalanx media hallucis (isovarpaan keskijäsenen tyvi)"
+      ]
+    },
+    {
+      "nimiLat": "m. abductor digiti minimi pedis",
+      "nimiFi": "pikkuvarpaan loitontajalihas",
+      "origo": [
+        "tuber calcanei medialis&lateralis (kantaluun kyhmyn sisä- ja ulkosivu)",
+        "aponeurosis plantaris (jalkapohjan kalvojänne)"
+      ],
+      "insertio": [
+        "basis phalanx proximalis 5 (pikkuvarpaan tyvijäsen)"
+      ]
+    },
+    {
+      "nimiLat": "m. flexor digitorum brevis",
+      "nimiFi": "varpaiden lyhyt koukistajalihas",
+      "origo": [
+        "tuber calcanei (kantaluun kyhmy)",
+        "aponeurosis plantaris (jalkapohjan kalvojänne)"
+      ],
+      "insertio": [
+        "basis phalanx media 2-5 (varpaiden 2-5 keskijäsenten tyvi)"
+      ]
+    } 
+  ],
+  "verisuonet": {
+    "valtimot": [
+      "nouseva aortta (aorta ascendens)",
+      "sepelvaltimo (arteria coronaria)",
+      "aortan kaari (arcus aortae)",
+      "pään ja käden valtimorunko (truncus brachiocephalicus)",
+      "oikea yhteinen kaulavaltimo (arteria carotis communis dextra)",
+      "oikea solisvaltimo (arteria subclavia dextra)",
+      "vasen yhteinen kaulavaltimo (arteria carotis communis sinistra)",
+      "vasen solisvaltimo (arteria subclavia sinistra",
+      "solisvaltimo (arteria subclavia)",
+      "nikamavaltimo (arteria vertebralis)",
+      "kainalovaltimo (arteria axillaris)",
+      "olkavarsivaltimo (arteria brachialis)",
+      "kyynärvaltimo (arteria ulnaris)",
+      "värttinävaltimo (arteria radialis)",
+      "pinnallinen kämmenkaari (arcus palmaris superficialis)",
+      "syvä kämmenkaari (arcus palmaris profundus)",
+      "kämmenkaari (arcus palmaris)",
+      "laskeva aortta (aorta descendens)",
+      "rinta-aortta (aorta thoracica)",
+      "vatsa-aortta (aorta abdominalis)",
+      "yhteinen lonkkavaltimo (arteria iliaca communis)",
+      "sisempi lonkkavaltimo (arteria iliaca interna)",
+      "ulompi lonkkavaltimo (arteria iliaca externa)",
+      "reisivaltimo (arteria femoralis)",
+      "polvitaivevaltimo (arteria poplitea)",
+      "etummainen säärivaltimo (arteria tibialis anterior)",
+      "takimmainen säärivaltimo (arteria tibialis posterior)",
+      "pohjevaltimo (arteria peronea)",
+      "jalanselän valtimo (arteria dorsalis pedis)",
+      "jalanselän valtimokaari (arcus arteriosus dorsalis pedis)",
+      "jalkapohjan valtimokaari (arcus plantaris)"
+    ],
+    "laskimot": [
+      "yläonttolaskimo (vena cava superior)",
+      "sisempi kaulalaskimo (vena jugularis interna)",
+      "ulompi kaulalaskimo (vena jugularis externa)",
+      "vasen solislaskimo (vena subclavia sinistra)",
+      "oikea solislaskimo (vena subclavia dextra)",
+      "vasen kainalolaskimo (vena axillaris sinistra)",
+      "oikea kainalolaskimo (vena axillaris dextra)",
+      "vasen olkavarsilaskimo (vena brachialis sinistra)",
+      "oikea olkavarsilaskimo (vena brachialis dextra)",
+      "käsivarren ulompi iholaskimo (vena cephalica)",
+      "käsivarren sisempi iholaskimo (vena basilica)",
+      "kyynärtaipeen välilaskimo (vena mediana cubiti)",
+      "kyynärvarren välilaskimo (vena intermedia antebrachii)",
+      "alaonttolaskimo (vena cava inferior)",
+      "yhteinen lonkkalaskimo (vena communis iliaca)",
+      "ulompi lonkkalaskimo (vena external iliaca)",
+      "sisempi lonkkalaskimo (vena internal iliaca)",
+      "reisilaskimo (vena femoral)",
+      "jalkavarren iso iholaskimo eli isosafeena (vena saphena magna)",
+      "jalkavarren pieni iholaskimo eli pikkusafeena (vena saphena parva)",
+      "jalanselän laskimokaari (arcus venosus dorsalis pedis)",
+      "jalanselkävaltimot (vv. metatarsales dorsales)"    
+    ]
+  },
+  "selkäranka": [
+    "selkäranka (columna vertebralis)",
+    "kaularanka (vertebrae cervicales C1-C7)",
+    "C1 atlas (kannattajanikama C1)",
+    "C2 axis (kiertäjänikama)",
+    "rintaranka (vertebrae thoracicae Th1-Th12)",
+    "lanneranka (vertebrae lumbalis L1-L5)",
+    "ristiluu (os sacrum)",
+    "häntäluu (os coccygis)",
+    "kyfoosi",
+    "lordoosi"
+  ],
+  "nivelet": [
+    {
+      "nimiFi": "lonkkanivel",
+      "nimiLat": "articulatio coxae",
+      "liikkeet": "flexio, extensio, abductio, adductio, mediaalirotaatio, lateraalirotaatio"
+    },
+    {
+      "nimiFi": "polvinimel",
+      "nimiLat": "articulatio genus",
+      "liikkeet": "flexio, extensio, flexiossa mediaalirotaatio"
+    },
+    {
+      "nimiFi": "ylempi nilkkanivel",
+      "nimiLat": "articulatio talocruralis",
+      "liikkeet": "plantaariflexio, dorsaaliflexio"
+    },
+    {
+      "nimiFi": "alempi nilkkanivel",
+      "nimiLat": "articulatio talocalcaneonavicularis",
+      "liikkeet": "supinaatio, pronaatio"
+    },
+    {
+      "nimiFi": "olkanivel",
+      "nimiLat": "articulatio humeri",
+      "liikkeet": "circumductio, flexio, extensio, abductio, adductio, mediaalirotaatio, lateraalirotaatio"
+    },
+    {
+      "nimiFi": "kyynärnivel",
+      "nimiLat": "articulatio cubiti",
+      "liikkeet": "flexio, extensio, supinaatio, pronaatio"
+    },
+    {
+      "nimiFi": "ylempi rannenivel",
+      "nimiLat": "articulatio radiocarpea",
+      "liikkeet": "palmaariflexio, dorsaaliflexio"
+    },
+    {
+      "nimiFi": "alempi rannenivel",
+      "nimiLat": "articulatio mediocarpea",
+      "liikkeet": "radiaalideviaatio, ulnaarideviaatio"
+    }    
+  ]
+}
