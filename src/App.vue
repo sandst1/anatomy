@@ -6,8 +6,21 @@
 </template>
 
 <script>
+import { mapActions } from 'vuex'
+import { FETCH_ANATOMY } from '@/store/action-types'
+
+
 export default {
-  name: 'app'
+  name: 'app',
+  methods: {
+    ...mapActions({
+      fetchAnatomy: FETCH_ANATOMY
+    })
+  },
+  mounted: function() {
+    this.fetchAnatomy();
+  }
+
 }
 </script>
 
