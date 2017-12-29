@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
     <router-view/>
   </div>
 </template>
@@ -8,7 +7,6 @@
 <script>
 import { mapActions } from 'vuex'
 import { FETCH_ANATOMY } from '@/store/action-types'
-
 
 export default {
   name: 'app',
