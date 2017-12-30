@@ -8,7 +8,13 @@
         v-bind:answer-in-lat="answerInLat"
         />
 
-    
+      <h3>Valitse origo(t) ({{currentMuscle.origin.length}} kpl)</h3>
+      <MultiSelectQuestion
+        v-bind:options="withRandomLandmarks(currentMuscle.origin)"/>
+
+      <h3>Valitse insertio(t) ({{currentMuscle.insertion.length}} kpl)</h3>
+      <MultiSelectQuestion
+        v-bind:options="withRandomLandmarks(currentMuscle.insertion)"/>
       
     </div>
     <div>
@@ -19,15 +25,16 @@
 
 <script>
 import { mapGetters, mapActions } from 'vuex'
-import { GET_CURRENT_MUSCLE } from '@/store/getters'
+import { GET_CURRENT_MUSCLE, GET_WITH_RANDOM_LANDMARKS } from '@/store/getters'
 import { NEXT_MUSCLE } from '@/store/action-types'
 import { RESET_COMPONENTS } from '@/constants'
 
-import { NameQuestion } from '@/components'
+import { NameQuestion, MultiSelectQuestion } from '@/components'
 
 export default {
   components: {
-    NameQuestion
+    NameQuestion,
+    MultiSelectQuestion
   },
   data: function() {
     return {
@@ -38,7 +45,8 @@ export default {
   },
   computed: {
     ...mapGetters({
-      currentMuscle: GET_CURRENT_MUSCLE
+      currentMuscle: GET_CURRENT_MUSCLE,
+      withRandomLandmarks: GET_WITH_RANDOM_LANDMARKS
     }),
   },
   methods: {
@@ -59,19 +67,13 @@ export default {
 </script>
 
 <style>
-  .answer-indicator {
-    width: 200px;
-    height: 30px;
-    margin: 0 auto;
-    background: #ff0000;
-  }
-
   .answer-path-right {
     background: #00ff00;
   }
 
   .container {
-    width: 35vw;
+    width: 95vw;
+    height: auto;
     border: 1px solid #cccccc;
     margin: 0 auto;
     padding: 20px;

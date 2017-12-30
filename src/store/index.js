@@ -10,7 +10,8 @@ import {
 import {
   GET_MUSCLES,
   GET_CURRENT_MUSCLE,
-  GET_ALL_LANDMARKS
+  GET_ALL_LANDMARKS,
+  GET_WITH_RANDOM_LANDMARKS
 } from './getters'
 
 import AnatomyService from '@/service/anatomy'
@@ -48,9 +49,36 @@ export const getters = {
   [GET_CURRENT_MUSCLE]: (state) => {
     return state.muscles[state.curMuscleIndex];
   },
-  
-  [GET_ALL_LANDMARKS]: (state) => {
-    return state.allLandmarks;
+
+  [GET_WITH_RANDOM_LANDMARKS]: (state) => (correctLandmarks) => {
+    let landmarks = correctLandmarks.map(lm => {
+      return {
+        name: lm,
+        correct: true
+      };
+    });
+
+    // Mix the correct landmarks with random ones.
+    let addCount = landmarks.length;
+    addCount = addCount < 4 ? 4 : addCount;
+
+    const landmarksToSample = 
+      state.allLandmarks
+        .filter(lm => !_.includes(correctLandmarks, lm));
+
+    const randIndexes = 
+      _.range(1, addCount + 1, 0)
+       .map(num => Math.floor(Math.random() * (landmarksToSample.length)));
+
+    landmarks = landmarks.concat(randIndexes.map((idx) => {
+      return {
+        name: landmarksToSample[idx],
+        correct: false
+      };
+    }));
+
+    console.dir(landmarks);
+    return _.uniq(landmarks);
   }
 }
 

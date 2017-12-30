@@ -1,6 +1,6 @@
 <template>
   <input 
-    v-bind:class="{'wrong-answer': !isAnswerOnRightPath, 'right-answer': isAnswerCorrect}"
+    v-bind:class="{'wrong': !isAnswerOnRightPath, 'right': isAnswerCorrect}"
     class="value"
     v-model="answer"/>
 </template>
@@ -45,11 +45,5 @@ export default {
 </script>
 
 <style>
-  .wrong-answer {
-    background: #ff7a7b;
-  }
 
-  .right-answer {
-    background: #5cf892;
-  }
 </style>

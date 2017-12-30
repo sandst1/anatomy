@@ -29,7 +29,6 @@ export default {
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     color: #2c3e50;
-    margin-top: 60px;
   }
 
   .row {
@@ -51,4 +50,12 @@ export default {
     line-height: 20px;
     padding: 5px;
   }
+
+  .wrong {
+    background: #ff7a7b;
+  }
+
+  .right {
+    background: #5cf892;
+  }  
 </style>
