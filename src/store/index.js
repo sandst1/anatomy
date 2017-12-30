@@ -77,8 +77,7 @@ export const getters = {
       };
     }));
 
-    console.dir(landmarks);
-    return _.uniq(landmarks);
+    return _.shuffle(_.uniq(landmarks));
   }
 }
 
