@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
+import _ from 'lodash'
 
 import { 
   FETCH_ANATOMY,
@@ -8,7 +9,8 @@ import {
 
 import {
   GET_MUSCLES,
-  GET_CURRENT_MUSCLE
+  GET_CURRENT_MUSCLE,
+  GET_ALL_LANDMARKS
 } from './getters'
 
 import AnatomyService from '@/service/anatomy'
@@ -20,6 +22,8 @@ export const state = {
   vessels: [],
   joints: [],
   spine: [],
+  
+  allLandmarks: [],
 
   curMuscleIndex: -1
 }
@@ -43,6 +47,10 @@ export const getters = {
 
   [GET_CURRENT_MUSCLE]: (state) => {
     return state.muscles[state.curMuscleIndex];
+  },
+  
+  [GET_ALL_LANDMARKS]: (state) => {
+    return state.allLandmarks;
   }
 }
 
@@ -53,6 +61,17 @@ function nextMuscleIndex(musclesLength) {
 export const mutations = {
   parseAnatomy: (state, anatomy) => {
     Object.assign(state, anatomy);
+
+    // Collect all origins and insertions from the muscles and put
+    // them into a sorted array without duplicates or empty values
+    state.allLandmarks = 
+      _.uniq(
+        Array.prototype.concat(
+          ...state.muscles.map(m => [...m.origin, ...m.insertion])
+        )
+      )
+      .filter(l => l.length > 0)
+      .sort();
   },
 
   nextMuscle: (state) => {

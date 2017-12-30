@@ -8,6 +8,18 @@ import store from './store'
 
 Vue.config.productionTip = false
 
+// Only used to reset child components deeper in the tree 
+// when e.g. a question changes
+const EventBus = new Vue();
+
+Object.defineProperties(Vue.prototype, {
+  $bus: {
+    get() {
+      return EventBus;
+    }
+  }
+})
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',

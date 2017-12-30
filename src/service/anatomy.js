@@ -1,13 +1,7 @@
-//import axios from 'axios'
-
 class AnatomyService {
-  //BASE_PATH = 'http://localhost:3000'
-
+  // Not using a server at least for now
   async fetchAnatomy() {
-    const json = require('../assets/anatomy.json');
-    return json;
-    /*const response = await axios.get(`${this.BASE_PATH}/db`);
-    return response.data;*/
+    return require('../assets/anatomy.json');
   }
 }
 
